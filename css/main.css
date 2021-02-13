@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(179, 221, 221);
+    font-style:inherit;
+    color: rgb(0, 0, 128);
+}
+ label {
+     margin: auto;
+ }   
+   
+
+div {
+width: 300px;
+height: 150px;
+background-color: rgb(177, 187, 197);
+margin: auto;
+border-color: blue;
+
+}
+
+p
+#name,#surname, #phone {
+    width: 140px;
+    height: 25px;
+    background-color: rgb(177, 187, 197);
+
+    text-align: center;
+    margin-left: 30px;
+}
